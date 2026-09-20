@@ -66,4 +66,4 @@ Open `riskprediction.ipynb` in Jupyter or VS Code and run all cells in order.
 - XGBoost hyperparameters were not tuned
 - Subgroup fairness analysis was not performed (the `race` attribute was dropped early in preprocessing)
 
-See `note.md` for full details.
+See `Note.md` for full details.
